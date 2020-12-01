@@ -1,0 +1,77 @@
+{
+  "pizza-pasta": [
+    {
+      "id": 1,
+      "name": "Simples",
+      "price": "0"
+    },
+    {
+      "id": 2,
+      "name": "Borda de Catupiry",
+      "price": "3.90"
+    },
+    {
+      "id": 3,
+      "name": "Borda de Mussarela",
+      "price": "3.90"
+    },
+    {
+      "id": 4,
+      "name": "Cheddar Com Alho",
+      "price": "7.00"
+    }
+  ],
+  "pizza-size": [
+    {
+      "id": 1,
+      "name": "Brotinho",
+      "price": "10.00"
+    },
+    {
+      "id": 2,
+      "name": "Normal",
+      "price": "15.00"
+    },
+    {
+      "id": 3,
+      "name": "Grande",
+      "price": "20.00"
+    }
+  ],
+  "pizza-filling": [
+    {
+      "id": 1,
+      "name": "Mussarela",
+      "price": "5.00"
+    },
+    {
+      "id": 2,
+      "name": "Frango com Catupiry",
+      "price": "7.00"
+    },
+    {
+      "id": 3,
+      "name": "Milho com Mussarela",
+      "price": "6.00"
+    }
+  ],
+  "pizza-recommendation": {
+    "filling": {
+      "id": 1,
+      "name": "Mussarela",
+      "price": "5.00"
+    },
+    "size": {
+      "id": 2,
+      "name": "Normal",
+      "price": "15.00"
+    },
+    "pasta": {
+      "id": 2,
+      "name": "Borda de Catupiry",
+      "price": "3.90"
+    },
+    "total": "20"
+  }
+
+}
